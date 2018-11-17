@@ -9,5 +9,20 @@
         "name": "Toni Haryanto"
     },
     "items": [
+        {
+            "id": "https://yllumi.github.io/first-post/",
+            "url": "https://yllumi.github.io/first-post/",
+            "title": "First Post",
+            "summary": "THis is my first post.",
+            "content_html": "THis is my first post.",
+            "image": "https://yllumi.github.io/media/posts/1/",
+            "author": {
+                "name": "Toni Haryanto"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-17T22:17:57+07:00",
+            "date_modified": "2018-11-17T22:17:57+07:00"
+        }
     ]
 }
